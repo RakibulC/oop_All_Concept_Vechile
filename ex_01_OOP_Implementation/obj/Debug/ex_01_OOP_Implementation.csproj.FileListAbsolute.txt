@@ -1,0 +1,16 @@
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\bin\Debug\ex_01_OOP_Implementation.exe.config
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\bin\Debug\ex_01_OOP_Implementation.exe
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\bin\Debug\ex_01_OOP_Implementation.pdb
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.csproj.AssemblyReference.cache
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.csproj.SuggestedBindingRedirects.cache
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.csproj.CoreCompileInputs.cache
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.exe
+D:\az\R56\M_03_C#\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.pdb
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\bin\Debug\ex_01_OOP_Implementation.exe.config
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\bin\Debug\ex_01_OOP_Implementation.exe
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\bin\Debug\ex_01_OOP_Implementation.pdb
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.csproj.AssemblyReference.cache
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.csproj.SuggestedBindingRedirects.cache
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.csproj.CoreCompileInputs.cache
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.exe
+D:\Module_3_C#\Class_015\Class_015\IsDB_WADA_M03_D015\ex_01_OOP_Implementation\obj\Debug\ex_01_OOP_Implementation.pdb
